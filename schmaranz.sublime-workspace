@@ -1,0 +1,1796 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"key",
+				"keyboard_input_"
+			],
+			[
+				"my",
+				"my_testvar1_"
+			],
+			[
+				"myte",
+				"my_testvar2_"
+			],
+			[
+				"my_test",
+				"my_testvar1_"
+			],
+			[
+				"test",
+				"test_array"
+			],
+			[
+				"v",
+				"var_to_change"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"var",
+				"my_var"
+			],
+			[
+				"nu",
+				"number3"
+			],
+			[
+				"num",
+				"number2"
+			],
+			[
+				"time",
+				"timeperminute"
+			],
+			[
+				"tim",
+				"timeperminute"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ml",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"base",
+				"base-font-size"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"height",
+				"heightright"
+			],
+			[
+				"pd",
+				"padding-top"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bg",
+				"bg	background"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"co",
+				"color6"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"pb",
+				"padding-bottom"
+			],
+			[
+				"c",
+				"circle"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"color",
+				"color1"
+			],
+			[
+				"bcc",
+				"background-color"
+			],
+			[
+				"pt",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"ce",
+				"table-cell"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"h1",
+				"h1-font-size"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"list-styl-",
+				"list-style-type"
+			],
+			[
+				"header",
+				"header_bg"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border-rad",
+				"border-bottom-right-radius"
+			],
+			[
+				"ra",
+				"transparent"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"borra",
+				"border-bottom-right-radius"
+			],
+			[
+				"field-",
+				"field-items"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"field",
+				"field-item"
+			],
+			[
+				"field-i",
+				"field-items"
+			],
+			[
+				"field-coll",
+				"field-collection-container"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"FON",
+				"font-family"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"view-front",
+				"view-frontpage-teaser"
+			],
+			[
+				"region",
+				"region-content"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"D",
+				"d60060"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"lis",
+				"lis-n	list-style: none;"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"A",
+				"Arial, Helvetica Neue, Helvetica, sans-serif"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"group",
+				"group-footer"
+			],
+			[
+				"node",
+				"node-produkte"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"padin",
+				"padding-top"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"strip",
+				"strip_posting"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "increment_test.c",
+			"settings":
+			{
+				"buffer_size": 1264,
+				"line_ending": "Unix",
+				"name": "increment_test.c"
+			}
+		},
+		{
+			"file": "speed_calculator.c",
+			"settings":
+			{
+				"buffer_size": 603,
+				"line_ending": "Unix",
+				"name": "speed_calculator.c"
+			}
+		},
+		{
+			"file": "scanf_test.c",
+			"settings":
+			{
+				"buffer_size": 771,
+				"line_ending": "Unix",
+				"name": "scanf_test.c"
+			}
+		},
+		{
+			"file": "scope_lifetime_test.c",
+			"settings":
+			{
+				"buffer_size": 1167,
+				"line_ending": "Unix",
+				"name": "scope_lifetime_test.c"
+			}
+		},
+		{
+			"file": "first_pointer_try.c",
+			"settings":
+			{
+				"buffer_size": 569,
+				"line_ending": "Unix",
+				"name": "first_pointer_try.c"
+			}
+		},
+		{
+			"file": "call_by_reference_test.c",
+			"settings":
+			{
+				"buffer_size": 599,
+				"line_ending": "Unix",
+				"name": "call_by_reference_test.c"
+			}
+		},
+		{
+			"file": "double_pointer_test.c",
+			"settings":
+			{
+				"buffer_size": 661,
+				"line_ending": "Unix",
+				"name": "double_pointer_test.c"
+			}
+		},
+		{
+			"file": "dyn_array_test.c",
+			"settings":
+			{
+				"buffer_size": 1333,
+				"line_ending": "Unix",
+				"name": "dyn_array_test.c"
+			}
+		},
+		{
+			"file": "ifelse_test_20130926.c",
+			"settings":
+			{
+				"buffer_size": 1408,
+				"line_ending": "Unix",
+				"name": "ifelse_test_20130926.c"
+			}
+		},
+		{
+			"file": "switch_test20130923.c",
+			"settings":
+			{
+				"buffer_size": 646,
+				"line_ending": "Unix",
+				"name": "switch_test20130923.c"
+			}
+		},
+		{
+			"file": "calculate_square.c",
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Unix",
+				"name": "calculate_square.c"
+			}
+		},
+		{
+			"file": "test_types.c",
+			"settings":
+			{
+				"buffer_size": 610,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"proj",
+				"Project: Edit"
+			],
+			[
+				"pro",
+				"Project: Edit"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"paco",
+				"Package Control: Add Repository"
+			],
+			[
+				"bg",
+				"Snippet: background"
+			],
+			[
+				"bck",
+				"Snippet: background"
+			],
+			[
+				"back",
+				"Snippet: background"
+			],
+			[
+				"border",
+				"Snippet: CSS - border-radius: ;"
+			],
+			[
+				"bgr",
+				"Snippet: background"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"emm",
+				"Emmet: Remove Tag"
+			],
+			[
+				"csscom",
+				"Sort via CSScomb"
+			],
+			[
+				"css :ho",
+				"Snippet: CSS - :hover, :focus"
+			],
+			[
+				"css hov",
+				"Snippet: CSS - :hover, :focus"
+			],
+			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"jsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Create Binary Package File"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 374.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cpotzinger/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/cpotzinger/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/cpotzinger/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/kundalini-graz.at/sites/default/settings.php",
+		"/Users/cpotzinger/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/schmaranz/bitoperator_test_vers2.c",
+		"/Applications/MAMP/htdocs/schmaranz/switch_test",
+		"/Applications/MAMP/htdocs/pilcrow-studio.com/sites/all/themes/pilcrowstudio/css/styles.css",
+		"/Users/cpotzinger/Documents/Einstern/Akademie/4544OT_Code.zip Ordner/chapter6/css/styles.css",
+		"/Users/cpotzinger/Documents/Einstern/Akademie/4544OT_Code.zip Ordner/chapter7/sass/partials/_placeholders.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/sass/_placeholders.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/gemeinde_gabersdorf.info",
+		"/Users/cpotzinger/Sites/development/kornferry20130808/sites/all/themes/kornferry_theme/css/royalslider-skins/kf/default.css",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/templates/views-view-field--field-slideshow-home-image.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/sass/_fonts.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/sass/styles.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/sass/_gabersdorf.scss",
+		"/Users/cpotzinger/Sites/development/kornferry20130808/sites/all/themes/kornferry_theme/css/global.css",
+		"/Users/cpotzinger/Sites/development/kornferry20130808/sites/all/themes/kornferry_theme/kornferry_theme.info",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/templates/views-view--image-rotator-frontpage--block.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/js/touchcarousel.js",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/js/royalslider.js",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/templates/views-view--slideshow-homepage.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/gemeindegabersdorf/settings.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/gv.help.master.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/gv.help.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/egovernment.html",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/boilerplate/css/main.css",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/shiatsugraz/sass/_layout-responsive.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/shiatsugraz/sass/_global-states.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/shiatsugraz/sass/_placeholders.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/shiatsugraz/sass/_base.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/template.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/config.rb",
+		"/Users/cpotzinger/Downloads/webfontkit-20130725-020747/stylesheet.css",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/gv.help.compressed.html",
+		"/Users/cpotzinger/Downloads/geshi_426_3565_1.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/sass/_mixins.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/templates/html.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/css/fonts/texgyreheros_italic_macroman/stylesheet.css",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/css/styles.css",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/css/fonts/Sansation/stylesheet.css",
+		"/Users/cpotzinger/Documents/Einstern/Akademie/4544OT_Code.zip Ordner/chapter9/sass/partials/_modules.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/css/fonts/texgyreheros_bolditalic_macroman/stylesheet.css",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/css/fonts/texgyreheros_regular_macroman/stylesheet.css",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/css/fonts/texgyreheros_bold_macroman/stylesheet.css",
+		"/Users/cpotzinger/Documents/Einstern/Akademie/4544OT_Code.zip Ordner/chapter9/sass/partials/_base.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/sass/components/_misc.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/shiatsugraz/sass/_modular-styles.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/images/header-ohne-wappen.svg",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/drupal7zen5master.sublime-project",
+		"/Users/cpotzinger/Library/Application Support/Sublime Text 2/Packages/User/projects/localhost-projects.sublime-project",
+		"/Users/cpotzinger/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Applications/MAMP/htdocs/quota-net.at/sites/all/themes/quotanet/jquery.js",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/default/settings.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/sass/layouts/_responsive.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/sass/_init.scss",
+		"/Applications/MAMP/htdocs/quota-net.at/sites/all/themes/quotanet/abc/criscom.css",
+		"/Applications/MAMP/htdocs/quota-net.at/sites/all/themes/quotanet/criscom/hahahaha.txt",
+		"/Users/cpotzinger/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/README.md",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/shiatsugraz/sass/_mixins.scss",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/shiatsugraz/config.rb",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/shiatsugraz/templates/html.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/shiatsugraz/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/shiatsugraz/settings.php",
+		"/Users/cpotzinger/Sites/development/cranium.at/wordpress/wp-content/themes/cranium/style.css",
+		"/Applications/MAMP/htdocs/drupal7zen5master/sites/all/themes/shiatsugraz/css/styles.css",
+		"/Users/cpotzinger/Downloads/chapter7/sass/partials/_base.scss",
+		"/Users/cpotzinger/Downloads/chapter7/sass/partials/_variables.scss",
+		"/Users/cpotzinger/Downloads/chapter7/sass/partials/_modules.scss",
+		"/Users/cpotzinger/Downloads/chapter7/sass/styles.scss",
+		"/Users/cpotzinger/Downloads/chapter7/sass/partials/_fonts.scss",
+		"/Users/cpotzinger/Downloads/chapter7/sass/partials/_layout.scss",
+		"/Users/cpotzinger/Downloads/chapter7/sass/partials/_mixins.scss",
+		"/Users/cpotzinger/Downloads/chapter7/sass/partials/_placeholders.scss",
+		"/Users/cpotzinger/Documents/Einstern/Webdevelopment/styles-mixins/_box-sizing.scss",
+		"/Users/cpotzinger/Documents/Einstern/Webdevelopment/necolas.normalize.css",
+		"/Users/cpotzinger/Documents/Einstern/Webdevelopment/necolas-normalize.css-v1.1.2",
+		"/Users/cpotzinger/Sites/development/mqdaily.at/sites/default/settings.php",
+		"/Users/cpotzinger/Downloads/chapter7/sass/partials/_chapter-examples.scss",
+		"/Users/cpotzinger/Downloads/chapter7/sass/partials/_normalize.scss",
+		"/Users/cpotzinger/Downloads/chapter2/sass/styles.scss",
+		"/Users/cpotzinger/Sites/development/gisalab/wp-content/themes/bones/library/scss/_base.scss",
+		"/Users/cpotzinger/Sites/development/gisalab/.htaccess",
+		"/Users/cpotzinger/Sites/development/gisalab/wp-content/themes/bones/index.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/library/css/style.css",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/library/scss/_1030up.scss",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/library/scss/style.scss",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/library/scss/_base.scss",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/plugins/approval-workflow/approval-workflow.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/search.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/functions.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/comments.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/archive.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/index.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/single.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-config.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/footer.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/page.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/page-custom.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/library/scss/_grid.scss",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/themes/bones/library/scss/_mixins.scss",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/languages/approval-workflow-de_DE.po",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/languages/admin-de_DE.po",
+		"/Applications/MAMP/htdocs/gisalab/wp-admin/includes/dashboard.php",
+		"/Applications/MAMP/htdocs/gisalab/wp-content/languages/de_DE.po",
+		"/Applications/MAMP/htdocs/wahlarzt-spitalsarzt.at-20130620/.htaccess",
+		"/Applications/MAMP/htdocs/wahlarzt-spitalsarzt.at-20130620/sites/default/settings.php",
+		"/Applications/MAMP/htdocs/wahlarzt-spitalsarzt.at-20130620/sites/sites.php",
+		"/Applications/MAMP/htdocs/brs20130617/sites/default/settings.php",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/34F69990-19F4-4B13-B944-92A92119973B/settings.php",
+		"/Applications/MAMP/htdocs/drupal7zenmaster/sites/all/themes/mqdaily2013/templates/page--front.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7zenmaster/sites/all/themes/mqdaily2013/mqdaily2013.info",
+		"/Applications/MAMP/htdocs/brs20130617/sites/all/themes/suedbeton/css/suedbeton-alpha-default-normal.css",
+		"/Applications/MAMP/htdocs/brs20130617/sites/all/themes/suedbeton/suedbeton.info",
+		"/Applications/MAMP/htdocs/brs20130617/sites/all/themes/suedbeton/css/suedbeton-alpha-default-narrow.css",
+		"/Applications/MAMP/htdocs/brs20130617/sites/all/themes/suedbeton/js/jstemplate.js",
+		"/Applications/MAMP/htdocs/brs20130617/sites/all/themes/suedbeton/css/global.css",
+		"/Applications/MAMP/htdocs/brs20130617/sites/all/themes/suedbeton/js/template.js",
+		"/Applications/MAMP/htdocs/drupal7zenmaster/sites/all/themes/mqdaily2013/css/mqdaily2013.css",
+		"/Applications/MAMP/htdocs/drupal7master/sites/default/settings.php",
+		"/Applications/MAMP/htdocs/brs/sites/all/themes/brs/css/brs-alpha-default-normal.css",
+		"/Applications/MAMP/htdocs/brs/sites/all/themes/omega/omega/css/omega-text.css",
+		"/Applications/MAMP/htdocs/brs/sites/all/themes/brs/css/global.css",
+		"/Applications/MAMP/htdocs/pedersenandpartners.com-20130509/sites/all/themes/pedersen_einstern_at/js/template.js",
+		"/Applications/MAMP/htdocs/pedersenandpartners.com-20130509/sites/all/themes/pedersen_einstern_at/css/nicemenuscustom.css",
+		"/Applications/MAMP/htdocs/pedersenandpartners22052012/sites/all/themes/pedersen_einstern_at/js/template.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"contents",
+			".teaser-box p, .teaser-box h2 a",
+			".field-name-field-teaser",
+			"h2.project-title",
+			"	width: 270px;\n	height: 208px;\n",
+			"		position: absolute;\n		width: 270px;\n",
+			"PROneg",
+			"(XS)",
+			"	width: 270px;\n	height: 208px;",
+			"@extend %",
+			"width: 270px;",
+			"width",
+			"width: 270px;",
+			"#main",
+			"view-gewerbebetriebe",
+			"Gemeindenachrichten",
+			"gemeindenachrichten",
+			"Gemeindenachrichten",
+			"gemeindenachrichten",
+			"#main",
+			"\n#HPslideshow",
+			"#main",
+			"XLne",
+			"XLn",
+			"Lneg",
+			"XXLneg",
+			"XLneg",
+			"Lneg",
+			"@media screen and",
+			"Lneg",
+			"G900neg",
+			"G903neg",
+			"Aktuelles",
+			"aktuelles",
+			"Aktuelles",
+			"aktuelles",
+			"Aktuelles",
+			"57em",
+			"-1",
+			"min",
+			"plus",
+			".pane-wetter",
+			".pane-stellenausschreibungen",
+			".panels-flexible-row-2-3",
+			"photo",
+			"unseregemeinde",
+			"foerderprogramme",
+			"panels-flexible-row-2-2",
+			"panels-flexible-row-2-main-row",
+			"gemeindenachrichten",
+			"-aktuelles",
+			"-termine",
+			"group-right",
+			"group-middle",
+			"group-left",
+			"node-type-wohnungstype",
+			"overflow",
+			"	@extend %clearfix;\n	@extend %clearfix;\n",
+			"$nav-height;",
+			"nhalt/aktuelles",
+			"Aktuelles",
+			"aktuelles",
+			"Aktuelles",
+			"%menu",
+			":hover",
+			"903px",
+			"904px",
+			"footer",
+			"%left-border",
+			"footer",
+			"touchcarousel",
+			"touchcarousel-skins",
+			"body.page-inhalt-fotos-veranstaltungen",
+			"%box-shadow-teaser",
+			"veranstaltung",
+			"Veranstaltung",
+			"%left-border",
+			"%box-shadow-teaser",
+			".block>h2.block-title",
+			"%box-shadow-teaser",
+			"box shadow",
+			"Box Shadow",
+			".view-gemeindenachrichten",
+			".views-row",
+			"%left-border",
+			"12",
+			"img",
+			".view-gemeinderat",
+			"heading",
+			"header",
+			"Header",
+			"header",
+			"Header",
+			"header",
+			".view",
+			"help",
+			".view-gemeinderat .views-row",
+			"1px solid $color3",
+			"border-top: 1px solid $color3;",
+			"Gemeinde",
+			"gemeinde",
+			"Gemeinde",
+			"gemeinde",
+			"border-bottom",
+			"h2.block",
+			".view-aktuelles-inhaltstyp-aktuelles-",
+			"stellen",
+			"stellenauss",
+			"Veranstaltung",
+			"mainlink",
+			"p",
+			"pageid",
+			"pageId",
+			"pageid",
+			"pageId",
+			"fonts/texgyreheros/",
+			"sansationlight",
+			"Light",
+			"light",
+			"fonts/Sansation/",
+			"SansationLight",
+			"Sansation",
+			"sansation",
+			"texgyreheros",
+			"font-family",
+			"25em",
+			"5em",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "increment_test.c",
+					"settings":
+					{
+						"buffer_size": 1264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1249,
+								1249
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "increment_test.c",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "speed_calculator.c",
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								603
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "speed_calculator.c",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scanf_test.c",
+					"settings":
+					{
+						"buffer_size": 771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"auto_name": "scanf_test.c",
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scope_lifetime_test.c",
+					"settings":
+					{
+						"buffer_size": 1167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1167,
+								1167
+							]
+						],
+						"settings":
+						{
+							"auto_name": "scope_lifetime_test.c",
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "first_pointer_try.c",
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"auto_name": "first_pointer_try.c",
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "call_by_reference_test.c",
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								125
+							]
+						],
+						"settings":
+						{
+							"auto_name": "call_by_reference_test.c",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "double_pointer_test.c",
+					"settings":
+					{
+						"buffer_size": 661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								170
+							]
+						],
+						"settings":
+						{
+							"auto_name": "double_pointer_test.c",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "dyn_array_test.c",
+					"settings":
+					{
+						"buffer_size": 1333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								886,
+								906
+							]
+						],
+						"settings":
+						{
+							"auto_name": "dyn_array_test.c",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "ifelse_test_20130926.c",
+					"settings":
+					{
+						"buffer_size": 1408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								566,
+								566
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ifelse_test_20130926.c",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "switch_test20130923.c",
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"auto_name": "switch_test20130923.c",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "calculate_square.c",
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "calculate_square.c",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "test_types.c",
+					"settings":
+					{
+						"buffer_size": 610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gemplac",
+				"gemeinde-gabersdorf/sass/_placeholders.scss"
+			],
+			[
+				"gemeinde-gabersdorf/sass/styl",
+				"gemeinde-gabersdorf/sass/styles.scss"
+			],
+			[
+				"place",
+				"gemeinde-gabersdorf/sass/_placeholders.scss"
+			],
+			[
+				"",
+				"gemeinde-gabersdorf/sass/_gabersdorf.scss"
+			],
+			[
+				"_gab",
+				"gemeinde-gabersdorf/sass/_gabersdorf.scss"
+			],
+			[
+				"temp",
+				"gemeinde-gabersdorf/template.php"
+			],
+			[
+				"_ga",
+				"gemeinde-gabersdorf/sass/_gabersdorf.scss"
+			],
+			[
+				"_init",
+				"gemeinde-gabersdorf/sass/_init.scss"
+			],
+			[
+				"_g",
+				"gemeinde-gabersdorf/sass/_gabersdorf.scss"
+			],
+			[
+				"ini",
+				"gemeinde-gabersdorf/sass/_init.scss"
+			],
+			[
+				"gemeinde",
+				"gemeinde-gabersdorf/gemeinde_gabersdorf.info"
+			],
+			[
+				"templa",
+				"gemeinde-gabersdorf/template.php"
+			],
+			[
+				"sass/_fon",
+				"gemeinde-gabersdorf/sass/_fonts.scss"
+			],
+			[
+				"sass/sty",
+				"gemeinde-gabersdorf/sass/styles.scss"
+			],
+			[
+				"gabersdin",
+				"gemeinde-gabersdorf/gemeinde_gabersdorf.info"
+			],
+			[
+				"main.",
+				"boilerplate/css/main.css"
+			],
+			[
+				"gabersd",
+				"drupal7zen5master/sites/all/themes/gemeinde-gabersdorf/sass/_gabersdorf.scss"
+			],
+			[
+				"suedb",
+				"brs20130617/sites/all/themes/suedbeton/suedbeton.info"
+			],
+			[
+				"brs/css/",
+				"brs/sites/all/themes/brs/css/brs-alpha-default-normal.css"
+			],
+			[
+				"wohnservice/css/",
+				"wohnservice/sites/default/themes/wohnservice/css/wohnservice-alpha-default-normal.css"
+			],
+			[
+				"wohnservice/css/default",
+				"wohnservice/sites/default/themes/wohnservice/css/wohnservice-alpha-default-narrow.css"
+			],
+			[
+				"brs/css/def",
+				"brs/sites/all/themes/brs/css/brs-alpha-default.css"
+			],
+			[
+				"brs/omega-tex",
+				"brs/sites/all/themes/omega/omega/css/omega-text.css"
+			],
+			[
+				"sites/wohnservice/dom",
+				"wohnservice/sites/default/themes/wohnservice/css/dominik.css"
+			],
+			[
+				"sites/brs/gl",
+				"brs/sites/all/themes/brs/css/global.css"
+			],
+			[
+				"brsglob",
+				"brs/sites/all/themes/brs/css/global.css"
+			],
+			[
+				"global",
+				"quotanet/css/global.css"
+			],
+			[
+				"themes/brsredm",
+				"brs/sites/all/themes/brs/css/README.txt"
+			],
+			[
+				"brsdnorm",
+				"brs/sites/all/themes/brs/css/brs-alpha-default-normal.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"cra",
+				"/Applications/MAMP/htdocs/wohnservice/sites/default/wohnservice.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true
+}

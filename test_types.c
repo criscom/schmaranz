@@ -10,7 +10,7 @@ long a_long = 0;
 float a_float = 0.0f;
 double a_double = 0.0;
 
-main ()
+int main ()
 {
 printf("Size of char: \t%ld  Byte(s)\n",sizeof(a_char));
 printf("Size of int: \t%ld  Byte(s)\n",sizeof(an_int));

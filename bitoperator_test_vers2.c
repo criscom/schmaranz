@@ -1,4 +1,4 @@
-//bit_operator_test.c - short demonstration of the
+∏//bit_operator_test.c - short demonstration of the
 //possibilities of bit-operators and their usage
 //second leg 20130828
 
